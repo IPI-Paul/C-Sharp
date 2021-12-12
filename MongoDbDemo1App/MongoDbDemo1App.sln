@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbDemo1", "MongoDbDemo1\MongoDbDemo1.csproj", "{B14A773D-6C26-4256-8981-6E98BD1B45BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BB0A97A-E5CC-48B8-8584-8D50A258662E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.editorconfig.inferred = .editorconfig.inferred
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14A773D-6C26-4256-8981-6E98BD1B45BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14A773D-6C26-4256-8981-6E98BD1B45BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14A773D-6C26-4256-8981-6E98BD1B45BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14A773D-6C26-4256-8981-6E98BD1B45BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35DE706-2C69-4A07-8DAE-8D6657986397}
+	EndGlobalSection
+EndGlobal
